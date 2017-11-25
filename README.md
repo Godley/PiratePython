@@ -54,4 +54,4 @@ We recommend you use SDFormatter to prepare your SD card, find it here: https://
 
 Download the latest release from releases: https://github.com/pimoroni/PiratePython/releases
 
-And extract it to your SD card.
+And extract the zip file to your SD card.
